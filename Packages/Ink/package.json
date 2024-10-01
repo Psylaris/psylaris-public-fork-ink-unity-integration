@@ -1,5 +1,5 @@
 {
-  "name": "com.inkle.ink-unity-integration",
+  "name": "com.psylaris.internal.ink-unity-integration",
   "version": "1.2.1",
   "displayName": "Ink",
   "description": "Unity integration for the open source ink narrative scripting language.",
